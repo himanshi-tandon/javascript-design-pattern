@@ -36,6 +36,37 @@
 
 ### Structural
 #### Module Pattern
+
+```javascript
+var Module = (function() {
+    function privateMethod() {
+        // do something
+    }
+
+    return {
+        publicMethod: function() {
+            // can call privateMethod();
+        }
+    };
+})();
+
+Module.publicMethod(); // works
+Module.privateMethod(); // Uncaught ReferenceError: privateMethod is not defined
+
+/*------------------OR-----------------------*/
+var Module = (function () {
+    function _privateMethod() {
+        // do something
+    }
+    function publicMethod() {
+        // do something
+    }
+    return {
+        publicMethod: publicMethod,
+    }
+})();
+```
+
 #### Adapter Pattern
 #### Decorator Pattern
 #### Façade Pattern
