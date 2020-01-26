@@ -65,7 +65,7 @@ const IronMan = new Hero('Iron Man', 'fly');
 console.log(IronMan.getDetails()); // Iron Man can fly
 ```
 
-### Singleton Pattern
+#### Singleton Pattern
 #### Prototype Pattern
 
 ## Structural
