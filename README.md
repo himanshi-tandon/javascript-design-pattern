@@ -27,7 +27,7 @@
   </li>
 </ul>
 
-### Creational
+## Creational
 
 #### Factory Pattern
 #### Constructor Pattern
@@ -65,10 +65,10 @@ const IronMan = new Hero('Iron Man', 'fly');
 console.log(IronMan.getDetails()); // Iron Man can fly
 ```
 
-#### Singleton Pattern
+### Singleton Pattern
 #### Prototype Pattern
 
-### Structural
+## Structural
 #### Module Pattern
 
 ```javascript
@@ -107,7 +107,7 @@ var Module = (function () {
 #### Mixin Pattern
 #### Flyweight Pattern
 
-### Behavioral
+## Behavioral
 #### Mediator Pattern
 #### Observer Pattern
 
