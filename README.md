@@ -1,28 +1,28 @@
 # Javascript Design Pattern
 
 <ul>
-  <li><a href="javascript:;" title="Creational">Creational</a>
+  <li><a href="#creational" title="Creational">Creational</a>
     <ul>
-      <li><a href="javascript:;" title="Factory Pattern">Factory Pattern</a></li>
-      <li><a href="javascript:;" title="Constructor Pattern">Constructor Pattern</a></li>
-      <li><a href="javascript:;" title="Singleton Pattern">Singleton Pattern</a></li>
-      <li><a href="javascript:;" title="Prototype Pattern">Prototype Pattern</a></li>
+      <li><a href="#factory-pattern" title="Factory Pattern">Factory Pattern</a></li>
+      <li><a href="#constructor-pattern" title="Constructor Pattern">Constructor Pattern</a></li>
+      <li><a href="#singleton-pattern" title="Singleton Pattern">Singleton Pattern</a></li>
+      <li><a href="#prototype-pattern" title="Prototype Pattern">Prototype Pattern</a></li>
     </ul>
   </li>
-  <li><a href="javascript:;" title="Structural">Structural</a>
+  <li><a href="#structural" title="Structural">Structural</a>
     <ul>
-      <li><a href="javascript:;" title="Module Pattern">Module Pattern</a></li>
-      <li><a href="javascript:;" title="Adapter Pattern">Adapter Pattern</a></li>
-      <li><a href="javascript:;" title="Decorator Pattern">Decorator Pattern</a></li>
-      <li><a href="javascript:;" title="Façade Pattern">Façade Pattern</a></li>
-      <li><a href="javascript:;" title="Mixin Pattern">Mixin Pattern</a></li>
-      <li><a href="javascript:;" title="Flyweight Pattern">Flyweight Pattern</a></li>
+      <li><a href="#module-pattern" title="Module Pattern">Module Pattern</a></li>
+      <li><a href="#adapter-pattern" title="Adapter Pattern">Adapter Pattern</a></li>
+      <li><a href="#decorator-pattern" title="Decorator Pattern">Decorator Pattern</a></li>
+      <li><a href="#façade-pattern" title="Façade Pattern">Façade Pattern</a></li>
+      <li><a href="#mixin-pattern" title="Mixin Pattern">Mixin Pattern</a></li>
+      <li><a href="#flyweight-pattern" title="Flyweight Pattern">Flyweight Pattern</a></li>
     </ul>
   </li>
-  <li><a href="javascript:;" title="Behavioral">Behavioral</a>
+  <li><a href="#behavioral" title="Behavioral">Behavioral</a>
     <ul>
-      <li><a href="javascript:;" title="Mediator Pattern">Mediator Pattern</a></li>
-      <li><a href="javascript:;" title="Observer Pattern">Observer Pattern</a></li>
+      <li><a href="#mediator-pattern" title="Mediator Pattern">Mediator Pattern</a></li>
+      <li><a href="#observer-pattern" title="Observer Pattern">Observer Pattern</a></li>
     </ul>
   </li>
 </ul>
