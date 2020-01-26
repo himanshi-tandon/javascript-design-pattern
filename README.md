@@ -9,7 +9,7 @@
       <li><a href="javascript:;" title="Prototype Pattern">Prototype Pattern</a></li>
     </ul>
   </li>
-  <li><a href="javascript:;" title="abc">abc</a>
+  <li><a href="javascript:;" title="Structural">Structural</a>
     <ul>
       <li><a href="javascript:;" title="Module Pattern">Module Pattern</a></li>
       <li><a href="javascript:;" title="Adapter Pattern">Adapter Pattern</a></li>
@@ -19,7 +19,7 @@
       <li><a href="javascript:;" title="Flyweight Pattern">Flyweight Pattern</a></li>
     </ul>
   </li>
-  <li><a href="javascript:;" title="abc">abc</a>
+  <li><a href="javascript:;" title="Behavioral">Behavioral</a>
     <ul>
       <li><a href="javascript:;" title="Mediator Pattern">Mediator Pattern</a></li>
       <li><a href="javascript:;" title="Observer Pattern">Observer Pattern</a></li>
