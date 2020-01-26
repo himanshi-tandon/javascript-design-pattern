@@ -45,3 +45,6 @@
 ### Behavioral
 #### Mediator Pattern
 #### Observer Pattern
+
+#### References
+- https://medium.com/better-programming/javascript-design-patterns-25f0faaaa15
